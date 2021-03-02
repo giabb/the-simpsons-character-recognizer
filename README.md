@@ -1,4 +1,4 @@
-# Project Title
+# The Simpsons Character Recognizer
 
 This project was developed during the 2020 Vision and Percpetion course held by [Prof. Pirri](http://www.diag.uniroma1.it//pirri/).
 
@@ -9,11 +9,7 @@ The dataset used in this project is free and [available on Kaggle](https://www.k
 ## Summary
 
   - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
+  - [Results](#results)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
